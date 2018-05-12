@@ -1,0 +1,35 @@
+_repo: Bohemian-Days--Three-American-Tales_19288
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Townsend, George Alfred
+    aliases:
+    - Bouquet, Johnny
+    - Townsend, G. A. (George Alfred)
+    birthdate: 1841
+    deathdate: 1914
+    gutenberg_agent_id: '2119'
+    url: http://www.gutenberg.org/2009/agents/2119
+    wikipedia: http://en.wikipedia.org/wiki/George_Alfred_Townsend
+description: 'Short novels: The rebel colony in Paris. Married abroad. The deaf man
+  of Kensington -- Chords: Bohemia Little Grisette. The pigeon girl. The dead Bohemian.'
+gutenberg_issued: '2006-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19288'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+- !lcsh 'Fiction'
+tableOfContents: 'Short novels: The rebel colony in Paris. Married abroad. The deaf
+  man of Kensington -- Chords: Bohemia. Little Grisette. The pigeon girl. The dead
+  Bohemian.'
+title: 'Bohemian Days: Three American Tales'
+url: http://www.gutenberg.org/ebooks/19288
